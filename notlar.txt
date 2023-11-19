@@ -1,0 +1,28 @@
+https://www.youtube.com/watch?v=pKd0Rpw7O48
+express eğitimi^^
+43. dk da kaldım.
+
+==================
+nodemon -> değişiklik yapıldığında tekrar otomatik build
+eder ve ekrana yansımasını sağlar.
+
+nodemon ile app i çalıştırmak için:
+'node app.js' yerine 'nodemon app.js' yazılır.
+==================
+
+==================
+process.env.PORT => environment variable a bu şekil ulaşılıyor.
+
+environment variable nasıl tanımlanır:
+windows: set PORT=5000
+linux: export PORT=5000
+
+**Port ataması canlıda nasıl olur araştır.
+--dotenv diye bir paket var. dotnet deki appsettings gibi.
+==================
+
+=======================
+input validation için node paketi:
+https://www.npmjs.com/package/joi
+https://joi.dev/api/?v=17.9.1
+=============================
